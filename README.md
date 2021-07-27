@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Reynold Fercol but you can call me Red
+- 👀 I’m interested in Creating UI
+- 🌱 I’m currently learning how to become a Front End Dev
+- 💞️ I’m looking to collaborate on Front End Designers
+- 📫 How to reach me? message me at my mail red.fercol@gmail.com
