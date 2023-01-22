@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Reynold Fercol but you can call me Red
+- 👋 Hi, I’m Reynold Fercol, an aspiring web developer from Sorsogon.
 - 👀 I’m interested in Creating UI, UX
 - 🌱 I’m currently learning how to become a Front End Dev and soon to be FullStack
-- 📫 How to reach me? You can message me at my gmail account -> red.fercol@gmail.com
+- 📫 How to reach me? You can message me at my gmail account -> reynolderenofercol@gmail.com
