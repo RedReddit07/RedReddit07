@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Reynold Fercol, an aspiring web developer from Sorsogon.
-- 👀 I’m interested in Creating UI, UX
-- 🌱 I’m currently learning how to become a Front End Dev and soon to be FullStack
-- 📫 How to reach me? You can message me at my gmail account -> reynolderenofercol@gmail.com
+- 👀 I’m interested in Creating UI, UX and learn new things in the process.
+- 🌱 I’m currently learning different things to become a Front End Developer and soon to be a Full Stack Developer.
+- 📫 Had some questions? You can message me at my gmail account -> reynolderenofercol@gmail.com
