@@ -14,32 +14,12 @@ I'm passionate building clean, modern, and user-friendly web design and experien
 - 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
 <br>
 <hr>
-### 🚀 Languages and Tools:
-<br>
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="230px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="ReactJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="30px" src="./img/terminal-light.svg" />
-<img align="left" alt="Terminal" width="30px" src="./img/terminal-dark.svg" />
-
 <br>
 <br>
 
 ---
 
 ## 📂 Projects
-
-| Project | Description | Link |
-| ------- | ----------- | ---- |
-| **Awesome Portfolio** | A sleek, responsive portfolio website showcasing my work. | [Live Demo](https://your-portfolio-link.com) |
-| **Todo App** | A simple yet powerful todo app with React. | [Repo](https://github.com/yourusername/todo-app) |
-| **API Backend** | RESTful API with Node.js and Express. | [Repo](https://github.com/yourusername/api-backend) |
 
 ---
 
